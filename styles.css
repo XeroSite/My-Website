@@ -1,0 +1,97 @@
+<link href="https://fonts.googleapis.com/css?family=Chilanka&display=swap" rel="stylesheet">
+body{
+	background-image: url("backround2.jpg");
+	position: fixed;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	overflow: hidden;
+	background-position: center;
+	width: 100%;
+	
+	
+
+}
+#a	{ 
+	background-color: #FFDF77;
+	text-align: center;
+	font-size: 30px; 
+	font-family: 'Press Start 2P', cursive;
+	margin-left: 80%;
+	padding: 0px;
+	
+}
+
+.links{
+	opacity: 0.3%;
+}
+
+#a:hover{
+	background-color: #FA8223;	
+	transition: 0.2s;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0px;
+ 	padding: 0px;
+ 	overflow: hidden;
+ 	background-color: #FEB813;
+ 	position: fixed;
+	top: 0;
+	width: 98%;
+	border-style: none;
+	border-radius: 10px;
+	margin-left: 10px;
+	margin-top: 8px;
+}
+
+li:hover{
+	background-color: #E9A000;
+	
+}
+
+li,.a{
+display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  float: left;
+  border-right: 2px solid #9A271B;
+  font-family: 'Chilanka', cursive;
+}
+
+#backRoundPicture{
+	width: 100%;
+
+}
+
+.image1 {
+  position: relative;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.image1 #img1 {
+	vertical-align: middle;
+}
+
+.image1 .content {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); 
+  color: #f1f1f1;
+  width: 100%;
+  padding: 10px 10px 10px 10px;
+
+}
+
+
+
+
+
+
+
+
+	
